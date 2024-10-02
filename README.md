@@ -3,8 +3,7 @@
 - 🌱 I’m currently learning Python
 - 💞️ I’m looking to collaborate on web development projects
 - 📫 How to reach me: [Email](mailto:newton108000@gmail.com) |
--   [LinkedIn](https://www.linkedin.com/in/your-link/)
--   [x]@onebizaka
+-   [x](https://x.com/onebizaka)
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I love exploring the intersection of technology and creativity!
 
